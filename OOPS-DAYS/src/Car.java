@@ -3,27 +3,28 @@ public class Car {
 	
 	int noofcars; 
 	String Model;
+	int speed;
+	
+	public int getSpeed ()
+	{
+		return speed;
+	}
+	public void setSpeed(int S)
+	{
+		this.speed=S;
+	}
 	
 	void display ()
 	{
 		System.out.println("Welcome to Kia-Motors");
 	}
-	
-
-	void display2 ()
+	public static void main (String [] args)
 	{
-		System.out.println("Welcome to Benz");
-	}
+	Car obj=new Car ();
 	
-
-	void display3 ()
-	{
-		System.out.println("Welcome to Audi");
+	obj.display();
+	obj.setSpeed(80);
+	System.out.println(obj.getSpeed() );
 	}
+}
 	
-
-	public static void main(String[] args)
-	    {
-		Car obj=new Car();
-		obj.display2();
-		}}
