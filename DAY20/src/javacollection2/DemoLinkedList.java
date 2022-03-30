@@ -1,8 +1,6 @@
 package javacollection2;
-
-import java.util.LinkedList;
-
 import java.util.Iterator;
+import java.util.LinkedList;
 public class DemoLinkedList {
 
 	public static void main(String[] args)
