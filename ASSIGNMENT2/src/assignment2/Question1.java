@@ -1,3 +1,4 @@
+//write a java program to swap two variables
 package assignment2;
 
 public class Question1 {
