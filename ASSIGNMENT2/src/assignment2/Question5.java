@@ -1,3 +1,4 @@
+//write a java program in java to display the multiplication table of a given integer
 package assignment2;
 import java.util.Scanner;
 public class Question5
