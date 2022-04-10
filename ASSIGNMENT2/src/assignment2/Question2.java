@@ -1,3 +1,4 @@
+//write a java method to find the smallest number among three number using scanner class
 package assignment2;
 import java.util.Scanner;  
 public class Question2 
