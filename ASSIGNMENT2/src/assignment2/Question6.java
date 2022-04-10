@@ -1,3 +1,9 @@
+/*write a program in java to make such a pattern like right angle triangle with a number which will repeat a number in a row
+  the pattern as follows :
+1 
+22 
+333 
+4444 */
 package assignment2;
 import java.util.Scanner;
 public class Question6 {
