@@ -1,3 +1,4 @@
+//write a java program to get a number from the user and print wheather it is positive or negative using scanner class
 package assignment2;
 import java.util.Scanner;
 public class Question3
