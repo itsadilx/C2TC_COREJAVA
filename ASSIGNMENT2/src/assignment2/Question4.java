@@ -1,3 +1,4 @@
+//write a java program to find the number of days in a month
 package assignment2;
 import java.util.Scanner;
 public class Question4 {
